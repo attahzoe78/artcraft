@@ -2199,9 +2199,9 @@ dependencies = [
 
 [[package]]
 name = "coarsetime"
-version = "0.1.34"
+version = "0.1.38"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "13b3839cf01bb7960114be3ccf2340f541b6d0c81f8690b007b2b39f750f7e5d"
+checksum = "eae63702c5627c75addbfb1ea9d1b3842205a6ffd43e4cce884a2a9eb1828fd7"
 dependencies = [
  "libc",
  "wasix",
@@ -12989,9 +12989,9 @@ checksum = "b8dad83b4f25e74f184f64c43b150b91efe7647395b42289f38e50566d82855b"
 
 [[package]]
 name = "wasix"
-version = "0.12.21"
+version = "0.13.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "c1fbb4ef9bbca0c1170e0b00dd28abc9e3b68669821600cad1caaed606583c6d"
+checksum = "ae86f02046da16a333a9129d31451423e1657737ecdafed4193838a5f54c5cfe"
 dependencies = [
  "wasi 0.11.0+wasi-snapshot-preview1",
 ]
